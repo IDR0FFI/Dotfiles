@@ -1,0 +1,165 @@
+* {
+  all: unset;
+  font-family: "JetBrains Mono Nerd Font", "Fira Code", monospace;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 25px;
+}
+
+window#waybar {
+  background: rgba(40, 44, 52, 0); /* [1][2] Made transparent */
+  margin: 2px 4px 0px 4px;         /* [1] Decreased top and side margins */
+  padding: 0px;
+}
+
+/* Left side modules */
+#clock.date {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 2px 10px 2px 0px;
+}
+
+#clock.time {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 2px 10px 2px 0px;
+  font-weight: 500;
+}
+
+/* Center modules */
+#workspaces {
+  background: rgba(60, 64, 72, 0.8); /* [2] Set full opacity */
+  color: #e6e6e6;
+  margin: 4px 0px 4px 0px;
+  padding: 2px 10px;                /* [3] Decreased height */
+  font-weight: 600;
+  font-size: 12px;
+  min-width: 20px;
+}
+
+#workspaces button {
+  font-size: 12px;
+  padding: 2px 6px;
+}
+
+#window.title {
+  background: rgba(60, 64, 72, 0.8); /* [2] Set full opacity */
+  color: #cccccc;
+  margin: 4px 0px 4px 0px;
+  padding: 2px 10px;                /* [3] Decreased height */
+  font-weight: 400;
+  font-size: 12px;
+  min-width: 100px;
+}
+
+/* Custom power modules */
+#custom-power-profile {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+#custom-power-menu {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 6px 12px;
+  font-weight: 500;
+  font-size: 15px;
+  min-width: 10px;
+  border-radius: 50%;               /* [5] Make button round */
+}
+
+#network {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#bluetooth {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#backlight {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#pulseaudio {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#battery {
+  background: rgba(60, 64, 72, 1.0); /* [2] Set full opacity */
+  color: #e6e6e6;
+  padding: 4px 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+/* Battery states */
+#battery.warning {
+  background: rgba(90, 84, 62, 1.0); /* [2] Set full opacity */
+  color: #f0f0f0;
+}
+
+#battery.critical {
+  background: rgba(80, 60, 60, 1.0); /* [2] Set full opacity */
+  color: #f0f0f0;
+}
+
+#battery.charging {
+  background: rgba(70, 80, 70, 1.0); /* [2] Set full opacity */
+  color: #f0f0f0;
+}
+
+/* Hover effects */
+#clock.date:hover,
+#clock.time:hover,
+#window.class:hover,
+#window.title:hover,
+#custom-power-profile:hover,
+#custom-power-menu:hover,
+#network:hover,
+#bluetooth:hover,
+#backlight:hover,
+#pulseaudio:hover,
+#battery:hover {
+  background: rgba(80, 84, 92, 1.0); /* [2] Set full opacity for hover */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Special states */
+#network.disconnected {
+  background: rgba(50, 54, 62, 1.0); /* [2] Set full opacity */
+  color: #999999;
+}
+
+#pulseaudio.muted {
+  background: rgba(50, 54, 62, 1.0); /* [2] Set full opacity */
+  color: #999999;
+}
+
+/* Tooltip styling */
+tooltip {
+  background: rgba(25, 29, 37, 0.95);
+  border: 1px solid rgba(60, 64, 72, 0.5);
+  color: #e6e6e6;
+  font-size: 15px;
+  padding: 6px 10px;
+}
+
