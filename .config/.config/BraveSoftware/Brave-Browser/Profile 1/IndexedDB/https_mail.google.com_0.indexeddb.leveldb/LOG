@@ -1,0 +1,12 @@
+2025/09/27-15:59:05.956 df2 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/27-15:59:05.956 df2 Recovering log #33
+2025/09/27-15:59:05.958 df2 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000033.log 
+2025/09/27-15:59:09.352 df2 Compacting 1@1 + 1@2 files
+2025/09/27-15:59:09.370 df2 Generated table #36@1: 188 keys, 749972 bytes
+2025/09/27-15:59:09.370 df2 Compacted 1@1 + 1@2 files => 749972 bytes
+2025/09/27-15:59:09.373 df2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/27-15:59:09.374 df2 Delete type=2 #34
+2025/09/27-15:59:09.374 df2 Delete type=2 #32
+2025/09/27-15:59:21.773 df3 Level-0 table #38: started
+2025/09/27-15:59:21.811 df3 Level-0 table #38: 3216899 bytes OK
+2025/09/27-15:59:21.814 df3 Delete type=0 #33

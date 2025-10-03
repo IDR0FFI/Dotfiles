@@ -1,0 +1,15 @@
+2025-08-06 23:13:44.965 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-06 23:13:45.050 [info] Started local extension host with pid 69614.
+2025-08-06 23:13:45.116 [error] TreeError [SettingsTree] Tree element not found: [object Object]: Error: TreeError [SettingsTree] Tree element not found: [object Object]
+    at oRs.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:8339)
+    at oRs.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:6800)
+    at KJe.rerender (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:15667)
+    at Ey.hd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1284:55779)
+    at Ey.fd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1284:55594)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1284:54928
+    at Set.forEach (<anonymous>)
+    at Ey.dd (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1284:54912)
+    at Aoe.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1284:37453)
+    at I.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-08-06 23:13:45.875 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-06 23:13:47.712 [warning] Settings pattern "mcp" doesn't match any settings

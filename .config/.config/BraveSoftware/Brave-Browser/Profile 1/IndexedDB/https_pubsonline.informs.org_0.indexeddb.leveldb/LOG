@@ -1,0 +1,6 @@
+2025/09/25-11:05:59.749 51046 Creating DB /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_pubsonline.informs.org_0.indexeddb.leveldb since it was missing.
+2025/09/25-11:05:59.752 51046 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_pubsonline.informs.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/25-11:19:49.917 51047 Level-0 table #5: started
+2025/09/25-11:19:49.918 51047 Level-0 table #5: 859 bytes OK
+2025/09/25-11:19:49.920 51047 Delete type=0 #3
+2025/09/25-11:19:49.920 51047 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,97 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="3" l="1756055155179" />
+    </e>
+    <e n="Android.DeviceManager2">
+      <i c="1" l="1756054443120" />
+    </e>
+    <e n="Android.RunAndroidSdkManager">
+      <i c="14" l="1756213096610" />
+    </e>
+    <e n="Android.SyncProject">
+      <i c="1" l="1756053659902" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1756055289459" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1756052627095" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="34" l="1756211889574" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1756053756664" />
+    </e>
+    <e n="EditorPaste">
+      <i c="7" l="1756054031281" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1756053693709" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1756055187503" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1756141250176" />
+    </e>
+    <e n="SaveAll">
+      <i c="6" l="1756055989934" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="17" l="1756213094122" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1756053444336" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1756052363148" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="2" l="1756055367998" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="2" l="1756056037117" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1756054965266" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="1" l="1756055395520" />
+    </e>
+    <e n="com.android.tools.idea.devicemanagerv2.DeviceManagerPanel$toAnAction$2">
+      <i c="1" l="1756055397720" />
+    </e>
+    <e n="com.android.tools.idea.gradle.project.upgrade.ProjectUpgradeNotification$1">
+      <i c="1" l="1756054973533" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizationUtil$MyDumbAction">
+      <i c="2" l="1756053540273" />
+    </e>
+    <e n="com.intellij.notification.impl.NotificationComponent$MyActionGroup">
+      <i c="1" l="1756052813190" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1756052647972" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="8" l="1756217132492" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="9" l="1756211900591" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="9" l="1756055286168" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="5" l="1756055366487" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1756211928222" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1756054453441" />
+    </e>
+  </component>
+</application>

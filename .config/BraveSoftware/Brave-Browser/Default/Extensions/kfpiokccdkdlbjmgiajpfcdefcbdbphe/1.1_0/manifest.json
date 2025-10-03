@@ -1,0 +1,24 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "logo.png",
+         "16": "logo.png",
+         "48": "logo.png"
+      }
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "description": "Book Reader: EPUB, PDF, CBZ, FB2",
+   "icons": {
+      "128": "logo.png",
+      "16": "logo.png",
+      "48": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsPB3+OdFuMa8Ch0XXTKXsJXYU8Kx02DtuWmUW9YheDyfsz7sIzhDLUR2im4uAjxRqdIHE9pRer9rs7f2pQW23r5URiGFvISv1hp2qGp1HScc1BZcf5WH7JAzcDpk/ENuep4NWB7tOV/cVA3IIKw3T1D3hUF3zBhfs82EKjKHWItFHEp+DD20NnGPEG20LcQ/DgUQkDzReHLpAr660LkfTWf3sc0a8o8NLhzjWwZU8D9u+ypMN+5AbBIx2cl/ilhcC1USPH7Hh13cK8GTp/bcTuJhFWMZsSTuAd1FRXCmsB9c5pBPiF+MtYxv6sBMLH5APVP1YMsX3lWArwGmWyPAjwIDAQAB",
+   "manifest_version": 3,
+   "name": "Epub Reader - Librera Reader",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}

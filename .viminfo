@@ -11,162 +11,148 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/opacity
+~MSle0~/bind
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:q!
-|2,0,1753251672,,"q!"
 :q
-|2,0,1753251415,,"q"
-:w
-|2,0,1753247170,,"w"
+|2,0,1759499418,,"q"
 :wq
-|2,0,1753247049,,"wq"
-:!mkdir -p .config/hypr/script
-|2,0,1752209018,,"!mkdir -p .config/hypr/script"
-:reg
-|2,0,1751864180,,"reg"
-:ter
-|2,0,1751863674,,"ter"
-:W
-|2,0,1751796068,,"W"
+|2,0,1759062274,,"wq"
+:w
+|2,0,1759037284,,"w"
+:218
+|2,0,1758169919,,"218"
+:!
+|2,0,1757601602,,"!"
+:'<,'>
+|2,0,1757001376,,"'<,'>"
+:280
+|2,0,1755968482,,"280"
+:q!
+|2,0,1755611933,,"q!"
+:set number
+|2,0,1755537335,,"set number"
+:Q
+|2,0,1755528114,,"Q"
+:shell
+|2,0,1754502393,,"shell"
+:WQ
+|2,0,1753852401,,"WQ"
+:21
+|2,0,1753850512,,"21"
+:140
+|2,0,1753597599,,"140"
+:154
+|2,0,1753597360,,"154"
+:25
+|2,0,1753596898,,"25"
+:96
+|2,0,1753596788,,"96"
+:'<,'>q
+|2,0,1753596675,,"'<,'>q"
+:555
+|2,0,1753596546,,"555"
 
 # Search String History (newest to oldest):
-?/opacity
-|2,1,1753247191,47,"opacity"
-?/blur
-|2,1,1753247149,47,"blur"
-?/input
-|2,1,1752639018,47,"input"
-?/menu
-|2,1,1752638128,47,"menu"
-?/xwayland
-|2,1,1752213297,47,"xwayland"
-?/misc
-|2,1,1752212960,47,"misc"
-?/group
-|2,1,1752212868,47,"group"
-?/AutoEnabl
-|2,1,1751954735,47,"AutoEnabl"
-?/active
-|2,1,1751954131,47,"active"
-?/AutoEna
-|2,1,1751954083,47,"AutoEna"
-?/font_size
-|2,1,1751948550,47,"font_size"
-?/font
-|2,1,1751948434,47,"font"
-?/size
-|2,1,1751948426,47,"size"
-?/brig
-|2,1,1751947380,47,"brig"
-?/background_opa
-|2,1,1751902724,47,"background_opa"
-?/opa
-|2,1,1751899458,47,"opa"
-?/backgro
-|2,1,1751899448,47,"backgro"
-?/anima
-|2,1,1751898923,47,"anima"
-?/percentag
-|2,1,1751897552,47,"percentag"
-?/backgroung_op
-|2,1,1751871266,47,"backgroung_op"
-?/opaci
-|2,1,1751870969,47,"opaci"
-?/exec-
-|2,1,1751869011,47,"exec-"
-?/icon
-|2,1,1751867265,47,"icon"
-?/swap
-|2,1,1751867252,47,"swap"
-? \<bind\>
-|2,1,1751864253,,"\\<bind\\>"
-?/background_opacity
-|2,1,1751862722,47,"background_opacity"
-?/background
-|2,1,1751862712,47,"background"
-?/module
-|2,1,1751861752,47,"module"
-?/right
-|2,1,1751861745,47,"right"
-?/exec-on
-|2,1,1751809449,47,"exec-on"
 ?/bind
-|2,1,1751797463,47,"bind"
-?/Lid
-|2,1,1751796516,47,"Lid"
-?/[4
-|2,1,1751794805,47,"[4"
-?/4
-|2,1,1751794635,47,"4"
-?/power
-|2,1,1751793708,47,"power"
-?/balance
-|2,1,1751793663,47,"balance"
-?/genera
-|2,1,1751792466,47,"genera"
-?/background_op
-|2,1,1751791693,47,"background_op"
-?/background_opac
-|2,1,1751791631,47,"background_opac"
-?/tray
-|2,1,1751786268,47,"tray"
-?/tra
-|2,1,1751786252,47,"tra"
-?/class
-|2,1,1751786078,47,"class"
-?/blue
-|2,1,1751785999,47,"blue"
-?/iconi
-|2,1,1751781831,47,"iconi"
-?/powe
-|2,1,1751780858,47,"powe"
-?/batt
-|2,1,1751780716,47,"batt"
-?/text-alig
-|2,1,1751728926,47,"text-alig"
-?/text
-|2,1,1751728917,47,"text"
-?/backdro
-|2,1,1751728899,47,"backdro"
-?/back
-|2,1,1751728894,47,"back"
-?/exec-o
-|2,1,1751727518,47,"exec-o"
-?/he
-|2,1,1751726051,47,"he"
-?/heig
-|2,1,1751724662,47,"heig"
-?/trans
-|2,1,1751721203,47,"trans"
-?/resize_
-|2,1,1751708317,47,"resize_"
-?/resize
-|2,1,1751708311,47,"resize"
-?/moni
-|2,1,1751707877,47,"moni"
-?/bord
-|2,1,1751696554,47,"bord"
-?/monit
-|2,1,1751695470,47,"monit"
-?/GDK
-|2,1,1751695466,47,"GDK"
-?/scale
-|2,1,1751694644,47,"scale"
+|2,1,1759037157,47,"bind"
+?/mod
+|2,1,1759037152,47,"mod"
+?/firefox
+|2,1,1759037081,47,"firefox"
+?/window
+|2,1,1758781160,47,"window"
+?///
+|2,1,1758043404,47,"//"
+? \<bind\>
+|2,1,1757955303,,"\\<bind\\>"
+?/space
+|2,1,1757955268,47,"space"
+?/Super
+|2,1,1757955260,47,"Super"
+?/S
+|2,1,1757955253,47,"S"
+?/netwo
+|2,1,1757002495,47,"netwo"
 ?/exec
-|2,1,1751694475,47,"exec"
-?/monitor
-|2,1,1751690504,47,"monitor"
-?/mon
-|2,1,1751640968,47,"mon"
-?/tear
-|2,1,1751630911,47,"tear"
-?/natura
-|2,1,1751629284,47,"natura"
+|2,1,1757001129,47,"exec"
+?/popup
+|2,1,1756141621,47,"popup"
+?/KEVAL
+|2,1,1755532467,47,"KEVAL"
+?/windowrule
+|2,1,1755423839,47,"windowrule"
+?/nmtui
+|2,1,1755423832,47,"nmtui"
+?/exec-
+|2,1,1754575547,47,"exec-"
+?/genera
+|2,1,1754502277,47,"genera"
+?/xwayland
+|2,1,1754502266,47,"xwayland"
+?/network
+|2,1,1754314152,47,"network"
+?/cen
+|2,1,1754313410,47,"cen"
+?//center
+|2,1,1754313406,47,"/center"
+?/vo
+|2,1,1754241734,47,"vo"
+?/power
+|2,1,1753876726,47,"power"
+?/time
+|2,1,1753864389,47,"time"
+?/battery
+|2,1,1753850992,47,"battery"
+?/font-size
+|2,1,1753802043,47,"font-size"
+?/exec-on
+|2,1,1753766628,47,"exec-on"
+?/debu
+|2,1,1753766431,47,"debu"
+?/device
+|2,1,1753765018,47,"device"
+?/variables
+|2,1,1753764777,47,"variables"
+?/debug
+|2,1,1753764722,47,"debug"
+?/workspace
+|2,1,1753676260,47,"workspace"
+?/windowrule/
+|2,1,1753676073,47,"windowrule/"
+?/opaci
+|2,1,1753606155,47,"opaci"
+?/layout
+|2,1,1753605829,47,"layout"
+?/master
+|2,1,1753605791,47,"master"
+?/R
+|2,1,1753599387,47,"R"
+?/save
+|2,1,1753599150,47,"save"
+? ')())
+|2,1,1753598535,,"')())"
+?/json
+|2,1,1753597093,47,"json"
+?/colors_to
+|2,1,1753597067,47,"colors_to"
+?/get
+|2,1,1753596933,47,"get"
+?/input
+|2,1,1753421765,47,"input"
+?/decor
+|2,1,1753421687,47,"decor"
+?/touch
+|2,1,1753421621,47,"touch"
+?/dwindle
+|2,1,1753421179,47,"dwindle"
+?/works
+|2,1,1753420074,47,"works"
+?/colors
+|2,1,1753419152,47,"colors"
 
 # Expression History (newest to oldest):
 
@@ -175,885 +161,1146 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
-	0
-|3,1,0,0,1,0,1753251669,"0"
+"0	LINE	0
+	      */
+|3,0,0,1,1,0,1757828774,"      */"
 "1	LINE	0
-		drag_lock = 1
-|3,0,1,1,1,0,1752639020,"	drag_lock = 1"
+	export ANDROID_HOME="/home/oneuser/android-sdk"
+|3,0,1,1,1,0,1758043413,"export ANDROID_HOME=\"/home/oneuser/android-sdk\""
 "2	LINE	0
-	
-|3,0,2,1,1,0,1752213326,""
+	export PATH="$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
+|3,0,2,1,1,0,1758043412,"export PATH=\"$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools\""
 "3	LINE	0
-	}
-|3,0,3,1,1,0,1752213325,"}"
+	export PATH="$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools"
+	
+|3,0,3,1,2,0,1758043408,"export PATH=\"$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools\"",""
 "4	LINE	0
-		force_zero_scaling = true
-|3,0,4,1,1,0,1752213325,"	force_zero_scaling = true"
+	export JAVA_HOME=/usr/lib/jvm/java-21-openjdk
+|3,0,4,1,1,0,1758043407,"export JAVA_HOME=/usr/lib/jvm/java-21-openjdk"
 "5	LINE	0
-	xwayland {
-|3,0,5,1,1,0,1752213324,"xwayland {"
+	bind = $mainMod, mouse_up, workspace, e-1
+|3,0,5,1,1,0,1757955319,"bind = $mainMod, mouse_up, workspace, e-1"
 "6	LINE	0
-	    enable_swallow = true
-|3,0,6,1,1,0,1752213147,"    enable_swallow = true"
+	      */
+|3,0,6,1,1,0,1757663102,"      */"
 "7	LINE	0
-		clickfinger_behavior = true
-|3,0,7,1,1,0,1752212576,"	clickfinger_behavior = true"
+	
+|3,0,7,1,1,0,1757663097,""
 "8	LINE	0
-		tap_button_map = lmr
-|3,0,8,1,1,0,1752212471,"	tap_button_map = lmr"
+	      printf("a : %d\nb : %d\ndata : %s\n", in.a, in.b, in.data);
+|3,0,8,1,1,0,1757663096,"      printf(\"a : %d\\nb : %d\\ndata : %s\\n\", in.a, in.b, in.data);"
 "9	LINE	0
-	    scroll_method = no_d
-|3,0,9,1,1,0,1752212260,"    scroll_method = no_d"
-"-	CHAR	0
-	0
-|3,0,36,0,1,0,1753246885,"0"
+	      bytes_recv = recv(s_fd, &in, sizeof(share_data_storage), 0);
+|3,0,9,1,1,0,1757663096,"      bytes_recv = recv(s_fd, &in, sizeof(share_data_storage), 0);"
+""-	CHAR	0
+	 + mean
+|3,1,36,0,1,0,1759062110," + mean"
 
 # File marks:
-'0  1  0  ~/.config/Thunar/uca.xml
-|4,48,1,0,1753251672,"~/.config/Thunar/uca.xml"
-'1  1  0  ~/dotfiles/.bashrc
-|4,49,1,0,1753251627,"~/dotfiles/.bashrc"
-'2  1  0  ~/dotfiles/.bashrc
-|4,50,1,0,1753251583,"~/dotfiles/.bashrc"
-'3  1  0  ~/.config/QtProject.conf
-|4,51,1,0,1753251415,"~/.config/QtProject.conf"
-'4  1  0  ~/.config/nwg-look/config
-|4,52,1,0,1753251319,"~/.config/nwg-look/config"
-'5  1  0  ~/.config/nwg-look/confi
-|4,53,1,0,1753251310,"~/.config/nwg-look/confi"
-'6  1  0  ~/.config/mimeapps.list
-|4,54,1,0,1753251267,"~/.config/mimeapps.list"
-'7  1  0  ~/.config/mimeapps.list
-|4,55,1,0,1753251236,"~/.config/mimeapps.list"
-'8  8  0  ~/.config/kde.org
-|4,56,8,0,1753251197,"~/.config/kde.org"
-'9  1  0  ~/.config/dconf/user
-|4,57,1,0,1753251152,"~/.config/dconf/user"
+'0  1  0  ~/.bash_logout
+|4,48,1,0,1759499418,"~/.bash_logout"
+'1  1  0  ~/.bash_profile
+|4,49,1,0,1759499411,"~/.bash_profile"
+'2  41  35  ~/Program/Self/Python/Codes/a.py
+|4,50,41,35,1759062274,"~/Program/Self/Python/Codes/a.py"
+'3  41  26  ~/Program/Self/Python/Codes/a.py
+|4,51,41,26,1759062250,"~/Program/Self/Python/Codes/a.py"
+'4  41  29  ~/Program/Self/Python/Codes/a.py
+|4,52,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+'5  41  29  ~/Program/Self/Python/Codes/a.py
+|4,53,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+'6  41  31  ~/Program/Self/Python/Codes/a.py
+|4,54,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+'7  41  31  ~/Program/Self/Python/Codes/a.py
+|4,55,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+'8  41  31  ~/Program/Self/Python/Codes/a.py
+|4,56,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+'9  41  31  ~/Program/Self/Python/Codes/a.py
+|4,57,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
 
 # Jumplist (newest first):
--'  1  0  ~/.config/Thunar/uca.xml
-|4,39,1,0,1753251672,"~/.config/Thunar/uca.xml"
--'  10  0  ~/.config
-|4,39,10,0,1753251667,"~/.config"
--'  30  0  ~/.config
-|4,39,30,0,1753251662,"~/.config"
--'  1  0  ~/dotfiles/.bashrc
-|4,39,1,0,1753251627,"~/dotfiles/.bashrc"
--'  1  0  ~/dotfiles/.bashrc
-|4,39,1,0,1753251627,"~/dotfiles/.bashrc"
--'  1  0  ~/dotfiles/.bashrc
-|4,39,1,0,1753251583,"~/dotfiles/.bashrc"
--'  1  0  ~/dotfiles/.bashrc
-|4,39,1,0,1753251583,"~/dotfiles/.bashrc"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/QtProject.conf
-|4,39,1,0,1753251415,"~/.config/QtProject.conf"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/config
-|4,39,1,0,1753251319,"~/.config/nwg-look/config"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/nwg-look/confi
-|4,39,1,0,1753251310,"~/.config/nwg-look/confi"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
--'  1  0  ~/.config/mimeapps.list
-|4,39,1,0,1753251267,"~/.config/mimeapps.list"
+-'  1  0  ~/.bash_logout
+|4,39,1,0,1759499418,"~/.bash_logout"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1759499411,"~/.bash_profile"
+-'  1  0  ~/.bash_profile
+|4,39,1,0,1759499411,"~/.bash_profile"
+-'  41  35  ~/Program/Self/Python/Codes/a.py
+|4,39,41,35,1759062274,"~/Program/Self/Python/Codes/a.py"
+-'  41  35  ~/Program/Self/Python/Codes/a.py
+|4,39,41,35,1759062274,"~/Program/Self/Python/Codes/a.py"
+-'  41  35  ~/Program/Self/Python/Codes/a.py
+|4,39,41,35,1759062274,"~/Program/Self/Python/Codes/a.py"
+-'  41  35  ~/Program/Self/Python/Codes/a.py
+|4,39,41,35,1759062274,"~/Program/Self/Python/Codes/a.py"
+-'  41  26  ~/Program/Self/Python/Codes/a.py
+|4,39,41,26,1759062250,"~/Program/Self/Python/Codes/a.py"
+-'  41  26  ~/Program/Self/Python/Codes/a.py
+|4,39,41,26,1759062250,"~/Program/Self/Python/Codes/a.py"
+-'  41  26  ~/Program/Self/Python/Codes/a.py
+|4,39,41,26,1759062250,"~/Program/Self/Python/Codes/a.py"
+-'  41  26  ~/Program/Self/Python/Codes/a.py
+|4,39,41,26,1759062250,"~/Program/Self/Python/Codes/a.py"
+-'  41  29  ~/Program/Self/Python/Codes/a.py
+|4,39,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+-'  41  29  ~/Program/Self/Python/Codes/a.py
+|4,39,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+-'  41  29  ~/Program/Self/Python/Codes/a.py
+|4,39,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+-'  41  29  ~/Program/Self/Python/Codes/a.py
+|4,39,41,29,1759062226,"~/Program/Self/Python/Codes/a.py"
+-'  41  31  ~/Program/Self/Python/Codes/a.py
+|4,39,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+-'  41  31  ~/Program/Self/Python/Codes/a.py
+|4,39,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+-'  41  31  ~/Program/Self/Python/Codes/a.py
+|4,39,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+-'  41  31  ~/Program/Self/Python/Codes/a.py
+|4,39,41,31,1759062200,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062192,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062125,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062125,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062125,"~/Program/Self/Python/Codes/a.py"
+-'  47  0  ~/Program/Self/Python/Codes/a.py
+|4,39,47,0,1759062125,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  49  19  ~/Program/Self/Python/Codes/a.py
+|4,39,49,19,1759062121,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  11  25  ~/Program/Self/Python/Codes/a.py
+|4,39,11,25,1759062103,"~/Program/Self/Python/Codes/a.py"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
+-'  249  72  ~/.config/hypr/hyprland.conf
+|4,39,249,72,1759037307,"~/.config/hypr/hyprland.conf"
 
 # History of marks within files (newest to oldest):
 
-> ~/.config/Thunar/uca.xml
-	*	1753251669	0
-	"	1	0
-
-> ~/dotfiles/.bashrc
-	*	1753251624	0
-	"	1	0
-
-> ~/.config/QtProject.conf
-	*	1753251414	0
-	"	1	0
-
-> ~/.config/nwg-look/config
-	*	1753251317	0
-	"	1	0
-
-> ~/.config/nwg-look/confi
-	*	1753251308	0
-	"	1	0
-
-> ~/.config/mimeapps.list
-	*	1753251259	0
-	"	1	0
-
-> ~/.config/dconf/user
-	*	1753251148	0
+> ~/.bash_logout
+	*	1759499417	0
 	"	1	0
 
 > ~/.bash_profile
-	*	1753248605	0
-	"	6	0
-	.	7	0
-	+	6	24
-	+	7	0
+	*	1759499402	0
+	"	1	0
 
-> ~/.viminfo
-	*	1753248546	0
-	"	47	0
-
-> ~/.config/kitty/kitty.conf
-	*	1753247198	0
-	"	1320	11
-	^	1351	17
-	.	1351	16
-	+	1320	24
-	+	1320	22
-	+	1351	1
-	+	1320	21
-	+	1351	16
-	+	1320	22
-	+	1351	16
-	+	1320	21
-	+	1351	1
-	+	23	11
-	+	1320	21
-	+	1351	16
+> ~/Program/Self/Python/Codes/a.py
+	*	1759062272	0
+	"	41	35
+	^	41	27
+	.	41	35
+	+	12	25
+	+	11	25
+	+	41	23
+	+	49	0
+	+	41	35
 
 > ~/.config/hypr/hyprland.conf
-	*	1753246965	0
-	"	112	24
-	^	112	25
-	.	112	25
-	+	8	0
-	+	213	29
-	+	246	33
-	+	25	29
-	+	25	0
-	+	26	0
-	+	25	26
-	+	59	0
-	+	135	0
-	+	25	32
-	+	37	0
-	+	47	17
-	+	25	15
-	+	318	0
-	+	27	1
-	+	61	0
-	+	58	20
-	+	25	25
-	+	90	15
-	+	25	0
-	+	62	26
-	+	49	0
-	+	47	29
-	+	25	23
-	+	99	26
-	+	109	15
-	+	110	4
-	+	111	3
-	+	109	15
-	+	113	25
-	+	112	23
-	+	113	25
-	+	50	40
-	+	291	42
-	+	291	72
-	+	291	38
-	+	293	0
-	+	291	78
-	+	292	75
-	+	94	0
-	+	125	16
-	+	126	17
-	+	125	15
-	+	127	25
-	+	128	22
-	+	47	40
-	+	295	66
-	+	296	68
-	+	47	41
-	+	48	26
-	+	113	25
-	+	125	15
-	+	113	26
-	+	112	24
-	+	126	18
-	+	124	23
-	+	124	0
-	+	116	22
-	+	188	13
-	+	126	17
-	+	112	23
-	+	126	18
-	+	113	26
-	+	124	22
-	+	112	24
-	+	135	15
-	+	112	23
-	+	113	25
-	+	295	65
-	+	296	69
-	+	295	68
-	+	296	70
-	+	295	58
-	+	296	60
-	+	219	25
-	+	208	19
-	+	206	29
-	+	209	0
-	+	214	0
-	+	190	33
-	+	191	0
-	+	27	0
-	+	35	20
-	+	214	0
-	+	123	0
-	+	112	23
-	+	113	0
-	+	124	0
-	+	113	26
-	+	112	27
-	+	112	25
-	o	90	15
-
-> ~/.config/hypr/hypridle.conf
-	*	1752210040	0
-	"	14	70
-	^	14	71
-	.	14	70
-	+	27	1
-	+	28	0
-	+	1	0
-	+	8	16
-	+	19	16
-	+	25	16
-	+	19	16
-	+	4	0
-	+	8	16
-	+	3	0
-	+	19	16
-	+	3	30
-	+	16	0
-	+	14	43
-	+	15	69
-	+	14	70
-
-> ~/.config/hypr/script/hypridle-decreaseBrightness.sh
-	*	1752209896	0
-	"	6	16
-	^	6	17
-	.	6	16
-	+	2	0
-	+	11	0
-	+	3	59
-	+	7	33
-	+	9	1
-	+	3	68
-	+	4	0
-	+	5	12
-	+	7	32
-	+	9	32
-	+	6	18
-	+	9	16
-	+	6	16
-
-> ~/log
-	*	1752207580	0
-	"	7	0
-	^	7	0
-	.	6	40
-	+	1	47
-	+	2	9
-	+	1	5
-	+	2	47
-	+	3	46
-	+	4	40
-	+	5	40
-	+	8	0
-	+	6	40
-
-> /etc/bluetooth/main.conf
-	*	1751954745	0
-	"	353	0
-	^	353	17
-	.	353	0
-	+	353	0
-
-> ~/needed
-	*	1751952898	0
-	"	74	101
-	^	313	0
-	.	312	141
-	+	178	140
-	+	314	0
-	+	312	141
-
-> /etc/default/grub
-	*	1751951602	0
-	"	6	62
-	^	6	63
-	.	6	62
-	+	6	62
-
-> /etc/laptop-mode/laptop-mode.conf
-	*	1751949647	0
-	"	100	35
-	^	100	36
-
-> /sys/devices/pci0000:00/0000:00:08.1/0000:03:00.0/drm/card1/card1-eDP-1/amdgpu_bl1/scale
-	*	1751948303	0
-	"	1	0
-
-> /sys/devices/pci0000:00/0000:00:08.1/0000:03:00.0/drm/card1/card1-eDP-1/amdgpu_bl1/brightness
-	*	1751948292	0
-	"	1	0
-
-> /sys/devices/pci0000:00/0000:00:08.1/0000:03:00.0/drm/card1/card1-eDP-1/amdgpu_bl1/actual_brightness
-	*	1751948282	0
-	"	1	0
-
-> /sys/devices/pci0000:00/0000:00:08.1/0000:03:00.0/drm/card1/card1-eDP-1/amdgpu_bl1/max_brightness
-	*	1751948268	0
-	"	1	0
-
-> ~/.config/hyprpanel/config.json
-	*	1751948139	0
-	"	1	0
-
-> /etc/UPower/UPower.conf
-	*	1751897805	0
-	"	72	0
-	.	66	19
-	+	66	19
-
-> ~/.config/hypr/hyprl
-	*	1751869392	0
-	"	1	0
-
-> /etc/xdg/waybar/config.jsonc
-	*	1751869226	0
-	"	90	9
-
-> ~/.config/hypr/hyprlan
-	*	1751869071	0
-	"	1	0
-
-> ~/.config/waybar/scripts/cycle-power-profile.sh
-	*	1751868332	0
-	"	40	0
-	.	41	0
-	+	1	4
-	+	41	0
-	+	40	4
-	+	41	0
-
-> ~/.config/waybar/style.css
-	*	1751868100	0
-	"	83	14
-	^	48	26
-	.	48	10
-	+	1	9
-	+	1	0
-	+	1	10
-	+	1	13
-	+	1	11
-	+	1	20
-	+	1	18
-	+	1	0
-	+	1	17
-	+	1	16
-	+	1	20
-	+	1	13
-	+	1	32
-	+	1	10
-	+	1	0
-	+	1	31
-	+	1	20
-	+	1	19
-	+	1	14
-	+	1	0
-	+	1	14
-	+	1	0
-	+	1	14
-	+	1	13
-	+	1	17
-	+	1	16
-	+	1	14
-	+	1	15
-	+	1	13
-	+	1	14
-	+	1	0
-	+	1	1
-	+	1	17
-	+	1	0
-	+	1	31
-	+	1	0
-	+	166	0
-	+	164	1
-	+	20	10
-	+	26	14
-	+	35	10
-	+	50	14
-	+	60	10
-	+	68	14
-	+	78	10
-	+	86	14
-	+	94	10
-	+	102	14
-	+	110	0
-	+	102	0
-	+	94	0
-	+	86	0
-	+	78	0
-	+	20	0
-	+	26	0
-	+	35	0
+	*	1759037284	0
+	"	249	72
+	^	249	73
+	.	249	72
+	+	51	0
 	+	50	0
-	+	60	0
-	+	68	0
-	+	49	27
+	+	54	0
+	+	50	38
+	+	48	49
+	+	172	0
+	+	45	0
+	+	172	0
+	+	173	0
+	+	172	0
+	+	172	58
+	+	172	57
+	+	172	41
+	+	268	32
+	+	172	0
+	+	173	0
+	+	323	0
+	+	324	0
+	+	328	0
+	+	328	58
+	+	328	1
+	+	328	0
+	+	328	19
+	+	328	0
+	+	328	25
+	+	328	10
+	+	328	23
+	+	328	24
+	+	325	39
+	+	328	24
+	+	48	24
+	+	51	12
+	+	325	43
+	+	328	0
+	+	325	11
 	+	49	0
-	+	46	33
-	+	57	33
-	+	31	28
-	+	20	21
-	+	26	7
-	+	20	7
-	+	20	11
-	+	26	0
-	+	25	16
-	+	19	16
-	+	20	0
-	+	26	0
-	+	19	16
-	+	25	26
-	+	33	25
-	+	48	25
-	+	33	18
-	+	48	10
+	+	54	0
+	+	48	0
+	+	55	63
+	+	68	0
+	+	231	0
+	+	231	1
+	+	231	23
+	+	325	10
+	+	231	0
+	+	55	0
+	+	328	0
+	+	328	20
+	+	307	0
+	+	328	103
+	+	328	0
+	+	54	0
+	+	51	19
+	+	55	0
+	+	56	0
+	+	328	0
+	+	325	52
+	+	325	54
+	+	327	47
+	+	325	0
+	+	51	32
+	+	140	0
+	+	139	29
+	+	52	37
+	+	247	0
+	+	248	0
+	+	249	0
+	+	248	30
+	+	325	0
+	+	326	0
+	+	325	0
+	+	326	0
+	+	325	25
+	+	249	121
+	+	249	136
+	+	249	69
+	+	249	0
+	+	249	83
+	+	249	45
+	+	249	83
+	+	283	4
+	+	284	1
+	+	280	0
+	+	288	0
+	+	217	0
+	+	218	0
+	+	219	0
+	+	223	0
+	+	222	33
+	+	222	0
+	+	221	33
+	+	222	0
+	+	219	2
+	+	292	26
+	+	291	26
+	+	169	0
+	+	291	26
+	+	292	26
+	+	54	112
+	+	249	72
 
-> ~/.config/waybar/config
-	*	1751868072	0
-	"	125	58
-	^	125	59
-	.	125	59
-	+	1	2
-	+	1	20
-	+	1	1
+> ~/Scripts/Screenshot.sh
+	*	1759037239	0
+	"	7	8
+	^	2	7
+	.	8	0
+	+	1	63
 	+	1	0
-	+	1	1
-	+	1	3
-	+	1	4
-	+	1	3
-	+	1	20
-	+	1	23
-	+	1	56
-	+	1	65
-	+	1	23
-	+	1	24
-	+	1	23
-	+	1	0
-	+	1	4
-	+	1	0
-	+	1	3
-	+	1	2
-	+	1	5
-	+	1	7
-	+	1	5
-	+	1	4
-	+	1	0
-	+	1	4
-	+	1	5
-	+	1	6
-	+	1	3
-	+	1	23
-	+	1	6
-	+	1	0
-	+	1	21
-	+	1	23
-	+	1	9
-	+	1	3
-	+	1	0
-	+	1	48
-	+	1	0
-	+	1	48
-	+	1	29
-	+	1	0
-	+	1	68
-	+	1	0
-	+	1	77
-	+	1	0
-	+	1	33
-	+	1	0
-	+	1	45
-	+	1	0
-	+	1	64
-	+	1	0
-	+	1	66
-	+	1	1
-	+	177	0
-	+	18	0
-	+	73	0
-	+	73	1
-	+	61	4
-	+	73	0
-	+	71	4
-	+	22	0
-	+	26	14
-	+	28	22
-	+	22	0
-	+	83	2
-	+	83	67
-	+	95	0
-	+	94	56
-	+	108	4
-	+	120	0
-	+	119	33
-	+	130	6
-	+	132	1
-	+	130	0
-	+	151	4
-	+	153	0
-	+	151	0
-	+	150	64
-	+	176	0
-	+	175	66
-	+	83	22
-	+	88	3
-	+	87	3
-	+	86	3
-	+	85	3
-	+	84	43
-	+	87	47
-	+	22	10
-	+	82	3
-	+	82	0
-	+	22	0
-	+	6	16
-	+	9	17
-	+	9	0
-	+	8	18
-	+	7	17
-	+	5	13
-	+	6	16
-	+	125	59
-
-> ~/a
-	*	1751864423	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	1	4
-	+	1	0
-	+	4	0
-	+	1	6
-	+	4	0
-	+	2	5
-
-> /tmp/tutortshBzs
-	*	1751863716	0
-	"	104	0
-
-> ~/Program/Self/WebSocket_Test/a.c
-	*	1751805874	0
-	"	16	0
-	^	16	0
-	.	16	0
+	+	1	11
+	+	8	65
 	+	8	0
-	+	4	23
-	+	11	0
-	+	2	19
-	+	12	20
-	+	18	0
-	+	12	19
-	+	17	5
-	+	15	62
-	+	16	0
-
-> ~/Program/Self/WebSocket_Test/run.sh
-	*	1751805463	0
-	"	1	8
-	^	6	3
-	.	1	7
-	+	6	3
-	+	1	7
+	+	2	6
+	+	8	0
 
 > ~/.bashrc
-	*	1751804571	0
-	"	8	14
-	^	8	15
-	.	8	15
-	+	8	15
+	*	1758043413	0
+	"	8	0
+	.	8	0
+	+	10	15
+	+	10	0
+	+	10	36
+	+	10	0
+	+	10	67
+	+	6	25
+	+	14	0
+	+	10	0
+	+	8	0
+
+> ~/.emacs.d/simpc-mode.el
+	*	1757768760	0
+	"	1	0
+
+> ~/sqlite3.c
+	*	1757768311	0
+	"	222876	0
+
+> ~/Program/Verilog/and_nand.out
+	*	1757741608	0
+	"	60	19
+
+> ~/Program/Verilog/nor_nand.out
+	*	1757741213	0
+	"	1	0
+
+> ~/Program/Verilog/xor_nand.vcd
+	*	1757740077	0
+	"	24	0
+
+> ~/Program/Verilog/a.out
+	*	1757701095	0
+	"	1	0
+
+> ~/Program/Verilog/a.v
+	*	1757699190	0
+	"	20	4
+	^	24	0
+	.	23	15
+	+	80	13
+	+	23	15
+
+> ~/a.vcd
+	*	1757694178	0
+	"	33	17
+
+> ~/a.c
+	*	1757693940	0
+	"	40	8
+	^	40	9
+	.	40	8
+	+	40	8
+
+> ~/Program/Self/WebSocket_Test/a.c
+	*	1757663102	0
+	"	84	4
+	.	84	0
+	+	15	2
+	+	15	0
+	+	59	0
+	+	58	6
+	+	65	0
+	+	75	0
+	+	76	6
+	+	84	0
+
+> ~/a.cpp
+	*	1757434393	0
+	"	18	0
+	^	18	0
+	.	17	0
+	+	39	1
+	+	38	9
+	+	20	20
+	+	11	0
+	+	8	24
+	+	10	18
+	+	17	0
+
+> ~/Program/Self/OOPS/Java/Circle.class
+	*	1757433967	0
+	"	1	0
+
+> ~/.config/waybar/config
+	*	1757002585	0
+	"	106	17
+	.	17	0
+	+	106	36
+	+	4	13
+	+	18	0
+	+	4	13
+	+	17	26
+	+	17	25
+	+	4	13
+	+	14	24
+	+	66	0
+	+	65	17
+	+	66	21
+	+	65	0
+	+	14	0
+	+	13	16
+	+	6	16
+	+	7	17
+	+	8	18
+	+	6	16
+	+	7	17
+	+	8	18
+	+	6	16
+	+	113	0
+	+	133	25
+	+	134	35
+	+	142	0
+	+	16	4
+	+	16	21
+	+	17	0
+
+> ~/Program/Self/Python/bin/activate
+	*	1756874791	0
+	"	1	0
 
 > ~/.config/hypr/hyprlock.conf
-	*	1751797445	0
-	"	106	0
-	^	106	1
-	.	106	0
-	+	106	0
+	*	1756391844	0
+	"	114	23
+	^	115	18
+	.	115	17
+	+	111	0
+	+	112	0
+	+	116	105
+	+	116	23
+	+	119	23
+	+	120	17
+	+	121	15
+	+	116	4
+	+	116	3
+	+	116	4
+	+	116	58
+	+	116	55
+	+	116	62
+	+	118	0
+	+	117	21
+	+	116	11
+	+	116	55
+	+	116	0
+	+	114	79
+	+	119	23
+	+	115	17
+	+	114	92
+	+	115	17
 
-> /etc/systemd/logind.conf
-	*	1751796703	0
-	"	36	0
-	.	36	0
-	+	36	0
-
-> ~/.config/waybar/cong
-	*	1751793652	0
+> ~/Program/Self/OOPS/Java/Emp.class
+	*	1756386159	0
 	"	1	0
 
-> ~/.config/hypr/hyprpaper.conf
-	*	1751790080	0
-	"	2	0
-	^	2	48
-	.	2	0
-	+	1	74
-	+	1	44
-	+	1	103
-	+	1	66
-	+	2	0
-
-> ~/.config/waybar/config~
-	*	1751784902	0
-	"	19	16
-	.	2	0
-	+	2	0
-
-> ~/.config/waybar/style
-	*	1751782334	0
+> ~/Program/Self/Advent2024/Util/reader.h
+	*	1756274501	0
 	"	1	0
 
-> ~/.config/waybar/style.css~
-	*	1751778662	0
-	"	15	19
+> ~/Program/Self/Advent2024/2
+	*	1756274486	0
+	"	1	0
+
+> ~/Program/Self/AppDev/florisboard/app/src/main/res/values/strings.xml
+	*	1756141795	0
+	"	7	0
+
+> ~/Program/Self/AppDev/florisboard/app/src/main/res/values/dimens.xml
+	*	1756141705	0
+	"	24	32
+	^	27	39
+	.	24	32
+	+	50	34
+	+	54	47
+	+	27	38
+	+	11	29
+	+	24	32
+
+> ~/Program/Self/AppDev/florisboard/CONTRIBUTING.md
+	*	1756052497	0
+	"	72	0
+
+> ~/Program/Self/AppDev/florisboard/app/src/main/res/layout/crash_dialog.xml
+	*	1756050339	0
+	"	89	0
+
+> ~/Program/Self/AppDev/florisboard/app/src/main/res/values-sw600dp/dimens.xml
+	*	1756050135	0
+	"	1	0
+
+> ~/Program/Self/AppDev/florisboard/lib/snygg/src/main/kotlin/org/florisboard/lib/snygg/ui/SnyggButton.kt
+	*	1756049170	0
+	"	89	0
+
+> ~/Program/Self/AppDev/florisboard/app/src/main/kotlin/dev/patrickgold/florisboard/app/devtools/DevtoolsOverlay.kt
+	*	1755968490	0
+	"	287	14
+
+> ~/Program/Self/Test/output.txt
+	*	1755967097	0
+	"	1	0
+
+> ~/Program/Self/Test/expected.txt
+	*	1755966773	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/Program/Self/Test/input.txt
+	*	1755966690	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/java/com/sosauce/cutecalc/data/calculator/Evaluator.kt
+	*	1755613101	0
+	"	99	22
+	^	120	23
+	.	120	0
+	+	103	73
+	+	102	8
+	+	113	18
+	+	116	228
+	+	113	5
+	+	102	13
+	+	96	0
+	+	95	40
+	+	96	0
+	+	94	2
+	+	95	2
+	+	96	0
+	+	94	1
+	+	95	1
+	+	102	0
+	+	105	29
+	+	113	9
+	+	116	15
+	+	116	236
+	+	116	228
+	+	116	233
+	+	125	0
+	+	116	243
+	+	116	28
+	+	116	29
+	+	116	228
+	+	125	0
+	+	116	32
+	+	116	14
+	+	116	228
+	+	116	32
+	+	116	208
+	+	116	228
+	+	116	0
+	+	115	15
+	+	116	172
+	+	116	208
+	+	137	0
+	+	116	114
+	+	116	35
+	+	116	173
+	+	116	86
+	+	116	167
+	+	116	211
+	+	116	207
+	+	116	170
+	+	116	104
+	+	116	118
+	+	116	208
+	+	116	229
+	+	116	162
+	+	116	211
+	+	116	108
+	+	116	201
+	+	116	228
+	+	116	227
+	+	116	27
+	+	124	0
+	+	116	5
+	+	117	8
+	+	119	8
+	+	120	12
+	+	121	9
+	+	122	12
+	+	123	5
+	+	124	3
+	+	123	7
+	+	120	0
+	+	122	0
+	+	119	0
+	+	117	63
+	+	119	0
+	+	95	25
+	+	93	51
+	+	114	10
+	+	115	0
+	+	120	0
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/java/com/sosauce/cutecalc/data/actions/CalcAction.kt
+	*	1755611930	0
+	"	1	0
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/java/com/sosauce/cutecalc/ui/screens/calculator/CalculatorViewModel.kt
+	*	1755611923	0
+	"	43	0
+
+> ~/Program/Self/AppDev/CuteCalc/src/main/java/com/sosauce/cutecalc/data/calculator/Evaluator.kt
+	*	1755528962	0
+	"	1	0
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/java/com/sosauce/cutecalc/MainActivity.kt
+	*	1755528557	0
+	"	23	8
+
+> ~/Program/Self/AppDev/CuteCalc/app/build.gradle.kts
+	*	1755528328	0
+	"	82	0
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/./java/com/sosauce/cutejuice/MainActivity.kt
+	*	1755528128	0
+	"	1	0
+
+> ~/Program/Self/AppDev/CuteCalc/app/src/main/java/com/sosauce/cutejuice/MainActivity.kt
+	*	1755528114	0
+	"	1	0
+
+> ~/Program/Self/AppDev/orgzly-android-revived/app.properties
+	*	1755522442	0
+	"	28	0
+
+> ~/Program/Self/AppDev/orgzly-android-revived/build/reports/problems/problems-report.html
+	*	1755522198	0
+	"	1	0
+
+> ~/Program/Self/AppDev/orgzly-android-revived/gradlew
+	*	1755521897	0
+	"	123	0
+
+> ~/Program/Self/AppDev/testproject/README.md
+	*	1755514860	0
+	"	11	23
+
+> ~/Program/Self/WebSocket_Test/run.sh
+	*	1755249109	0
+	"	1	0
+
+> ~/.emacs.d/auto-save-list/.saves-16970-OnePerson~
+	*	1755018739	0
+	"	1	0
 
 > ~/.config/waybar/scripts/power-menu.sh
-	*	1751734053	0
-	"	7	42
-	^	28	4
-	.	3	0
-	+	55	3
+	*	1755017218	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	7	103
+	+	21	0
+	+	19	54
+	+	24	0
+	+	29	4
+	+	28	2
 	+	29	0
-	+	28	3
-	+	3	0
 
-> ~/.co
-	*	1751726476	0
-	"	1	0
+> /usr/share/applications/brave-browser.desktop
+	*	1754575502	0
+	"	2	0
+	.	2	0
+	+	2	0
 
-> ~/.config/hypr/env.conf
-	*	1751706427	0
+> /usr/share/applications/code-oss.desktop
+	*	1754502689	0
+	"	5	13
+	^	5	14
+	.	5	14
+	+	5	14
+
+> ~/.config/environment.d/vscode.conf
+	*	1754502390	0
 	"	2	0
 	^	2	0
-	.	1	23
-	+	1	23
+	.	2	0
+	+	1	36
+	+	2	0
 
-> ~/.config/xdg-desktop-portal/portals.conf
-	*	1751706216	0
-	"	2	0
-	.	3	0
-	+	2	35
-	+	3	0
-
-> ~/.config/gtk-3.0/settings.ini
-	*	1751696319	0
-	"	6	17
-	^	7	0
-	.	6	18
-	+	6	18
-
-> /etc/fonts/conf.d/.config/hypr/hyprland.conf
-	*	1751696213	0
+> ~/.local/bin/themer
+	*	1754327049	0
 	"	1	0
 
-> /etc/fonts/local.conf
-	*	1751695985	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	11	13
-	+	1	4
+> ~/.bash
+	*	1754327011	0
+	"	1	0
 
-> /etc/fonts/conf.d/10-yes-antialias.conf
-	*	1751692009	0
-	"	6	47
-	.	6	47
-	+	6	47
+> /etc/bluetooth/main.conf
+	*	1754236804	0
+	"	353	1
+	^	353	2
+	.	353	1
+	+	353	1
 
-> /etc/fonts/fonts.conf
-	*	1751691959	0
-	"	103	0
+> ~/.config/hypr/hypridle.conf
+	*	1754024390	0
+	"	15	16
+	^	15	17
+	.	15	16
+	+	6	33
+	+	5	29
+	+	15	16
+
+> ~/.config/waybar/style.css
+	*	1753877060	0
+	"	40	15
+	^	7	18
+	.	40	15
+	+	94	15
+	+	101	20
+	+	102	15
+	+	109	20
+	+	110	15
+	+	7	14
+	+	65	14
+	+	73	14
+	+	81	14
+	+	89	14
+	+	97	14
+	+	161	14
+	+	113	14
+	+	105	14
+	+	42	14
+	+	45	14
+	+	41	15
+	+	55	14
+	+	54	18
+	+	41	18
+	+	54	10
+	+	41	11
+	+	45	0
+	+	41	0
+	+	41	18
+	+	14	22
+	+	74	0
+	+	7	14
+	+	42	14
+	+	55	14
+	+	65	14
+	+	73	14
+	+	81	14
+	+	89	14
+	+	97	14
+	+	105	14
+	+	113	14
+	+	161	14
+	+	113	14
+	+	105	14
+	+	97	14
+	+	89	14
+	+	81	14
+	+	73	14
+	+	65	14
+	+	55	14
+	+	45	14
+	+	42	14
+	+	7	14
+	+	45	14
+	+	42	14
+	+	41	15
+	+	45	0
+	+	41	15
+	+	42	14
+	+	41	0
+	+	55	14
+	+	42	14
+	+	45	14
+	+	41	17
+	+	43	0
+	+	45	0
+	+	46	0
+	+	7	0
+	+	42	14
+	+	24	18
+	+	16	17
+	+	42	14
+	+	41	18
+	+	24	14
+	+	65	14
+	+	73	14
+	+	81	14
+	+	89	14
+	+	97	14
+	+	105	14
+	+	113	14
+	+	30	17
+	+	7	17
+	+	74	0
+	+	41	15
+	+	72	16
+	+	7	14
+	+	24	0
+	+	32	0
+	+	41	0
+	+	54	0
+	+	41	0
+	+	64	0
+	+	72	0
+	+	80	0
+	+	88	0
+	+	96	0
+	+	104	0
+	+	7	0
+	+	13	31
+	+	9	14
+	+	7	18
+	+	13	31
+	+	40	15
+
+> ~/.config/waybar/sy
+	*	1753864319	0
+	"	1	0
+
+> ~/Scripts/auto_firefox_transparency.sh
+	*	1753768670	0
+	"	3	6
+	^	3	7
+	.	3	6
+	+	5	0
+	+	3	6
+
+> ~/Scripts/script.log
+	*	1753768273	0
+	"	1	17
+
+> ~/Scripts/auto_firfox_transparency.sh
+	*	1753767918	0
+	"	6	0
+	^	6	0
+	.	5	51
+	+	22	4
+	+	23	0
+	+	14	56
+	+	16	56
+	+	14	47
+	+	16	68
+	+	14	52
+	+	16	52
+	+	14	53
+	+	16	27
+	+	14	54
+	+	16	53
+	+	14	70
+	+	16	54
+	+	14	45
+	+	16	45
+	+	1	2
+	+	5	0
+	+	3	7
+	+	5	51
+
+> ~/.config/hypr/env.conf
+	*	1753767637	0
+	"	1	0
+
+> /usr/bin/dunst
+	*	1753767347	0
+	"	1	0
+
+> ~/.config/rofi/shared/fonts.rasi
+	*	1753617786	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	3	0
+
+> ~/.config/rofi/shared/colors.rasi
+	*	1753617771	0
+	"	8	0
+	^	8	1
+	.	8	0
+	+	8	0
+
+> ~/.config/rofi/theme/theme.rasi
+	*	1753617668	0
+	"	289	0
+	^	289	1
+	.	289	0
+	+	289	0
+
+> ~/.config/rofi/config.rasi
+	*	1753617632	0
+	"	14	24
+	^	14	25
+	.	14	24
+	+	1	20
+	+	1	9
+	+	1	37
+	+	14	24
+
+> ~/.config/rofi/colors.rasi
+	*	1753617599	0
+	"	30	0
+
+> ~/.config/matugen/templates/rofi-colors.rasi
+	*	1753617559	0
+	"	2	11
+	^	47	1
+	.	47	0
+	+	47	0
+
+> /usr/share/rofi/themes/glue_pro_blue.rasi
+	*	1753617243	0
+	"	33	0
+
+> ~/.config/kitty/kitty.conf
+	*	1753616946	0
+	"	4	0
+	^	3	1
+	.	4	0
+	+	3	50
+	+	4	19
+	+	3	0
+	+	4	0
+
+> ~/.config/matugen/config.toml
+	*	1753616930	0
+	"	19	69
+	^	19	70
+	.	19	69
+	+	11	35
+	+	16	34
+	+	14	70
+	+	20	41
+	+	19	69
+
+> ~/.config/matugen/templates/colors.css
+	*	1753616849	0
+	"	1	0
+
+> ~/.config/matugen/templates/kitty-colors.conf
+	*	1753616468	0
+	"	41	14
+	^	41	15
+	.	41	14
+	+	41	14
+
+> /usr/lib/python3.13/site-packages/pywal/__main__.py
+	*	1753599392	0
+	"	169	12
+
+> /usr/lib/python3.13/site-packages/pywal/theme.py
+	*	1753599351	0
+	"	117	22
+
+> ~/Program/Third-Party/pywal/pywal/theme.py
+	*	1753599301	0
+	"	130	35
+
+> ~/Program/Third-Party/pywal/tests/__init__.py
+	*	1753598723	0
+	"	1	0
+
+> ~/Program/Third-Party/pywal/tests/test_image.py
+	*	1753598717	0
+	"	31	0
+
+> /usr/bin/wal
+	*	1753598537	0
+	"	33	73
+
+> ~/Program/Third-Party/pywal/pywal/scripts/gtk_reload.py
+	*	1753598437	0
+	"	1	0
+
+> ~/Program/Third-Party/pywal/pywal/backends/wal.py
+	*	1753598390	0
+	"	1	0
+
+> /usr/bin/python
+	*	1753598087	0
+	"	1	0
+
+> ~/Program/Third-Party/pywal/pywal/util.py
+	*	1753597801	0
+	"	134	39
+
+> ~/.cache/wal/last_used_theme
+	*	1753597673	0
+	"	1	0
+
+> ~/.cache/wal/colors-themer.js
+	*	1753597516	0
+	"	1	0
+
+> ~/Program/Third-Party/pywal/pywal/__main__.py
+	*	1753597328	0
+	"	184	12
+
+> ~/Program/Third-Party/pywal/pywal/colors.py
+	*	1753597192	0
+	"	110	17
+	.	165	0
+	+	165	0
+
+> ~/Program/Third-Party/pywal/pywal/colors
+	*	1753596888	0
+	"	1	0
+
+> ~/Program/Third-Party/pywal/pywal/export.py
+	*	1753596857	0
+	"	121	4
+
+> ~/Program/Third-Party/pywal/CHANGELOG.md
+	*	1753596676	0
+	"	558	23
+
+> ~/.cache/wal/colors.json
+	*	1753596638	0
+	"	20	27
+
+> ~/.local/bin/themer-backend
+	*	1753595265	0
+	"	18	23
+	^	18	24
+	.	18	24
+	+	21	22
+	+	24	15
+	+	18	24
+
+> ~/.cache/wal/colors-waybar.css
+	*	1753420592	0
+	"	13	0
+	.	2	0
+	+	2	0
+
+> ~/.cache/wal/colors-kitty.conf
+	*	1753419338	0
+	"	13	0
+
+> ~/.config/kitty/kitty.toml
+	*	1753419137	0
+	"	1	52
+	^	1	53
+	.	1	53
+	+	1	53
