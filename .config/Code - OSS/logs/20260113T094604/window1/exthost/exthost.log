@@ -1,0 +1,10 @@
+2026-01-13 09:46:08.124 [info] Extension host with pid 9289 started
+2026-01-13 09:46:08.124 [info] Skipping acquiring lock for /home/oneuser/.config/Code - OSS/User/workspaceStorage/b4b9c00a5b01659c9adbb97c14b02797.
+2026-01-13 09:46:08.179 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-13 09:46:08.263 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-01-13 09:46:08.270 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-13 09:46:08.366 [info] Eager extensions activated
+2026-01-13 09:46:08.394 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-13 09:46:08.398 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-13 09:46:12.190 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-13 09:46:12.193 [info] Extension host with pid 9289 exiting with code 0

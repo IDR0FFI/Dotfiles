@@ -1,3 +1,15 @@
-2025/09/26-19:36:29.164 df2 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/09/26-19:36:29.164 df2 Recovering log #193
-2025/09/26-19:36:29.164 df2 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/000193.log 
+2026/01/14-22:10:02.313 928 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-22:10:02.314 928 Recovering log #209
+2026/01/14-22:10:02.314 928 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/000209.log 
+2026/01/15-00:09:58.827 92e Level-0 table #214: started
+2026/01/15-00:09:58.829 92e Level-0 table #214: 226 bytes OK
+2026/01/15-00:09:58.830 92e Delete type=0 #209
+2026/01/15-00:09:58.831 92e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/15-00:09:58.831 92e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 1286822 : 1
+2026/01/15-00:09:58.831 92e Compacting 1@1 + 1@2 files
+2026/01/15-00:09:58.834 92e Generated table #215@1: 304 keys, 40685 bytes
+2026/01/15-00:09:58.834 92e Compacted 1@1 + 1@2 files => 40685 bytes
+2026/01/15-00:09:58.837 92e compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/15-00:09:58.837 92e Delete type=2 #211
+2026/01/15-00:09:58.837 92e Delete type=2 #214
+2026/01/15-00:09:58.838 92e Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 1286822 : 1 .. (end); will stop at (end)

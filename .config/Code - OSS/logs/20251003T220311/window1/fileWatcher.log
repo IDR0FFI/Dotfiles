@@ -1,0 +1,2 @@
+2025-10-03 22:03:34.306 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T230631/window3' failed: No such file or directory (EUNKNOWN) (path: /home/oneuser)
+2025-10-03 22:03:34.306 [error] [File Watcher (universal)] inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T230631/window3' failed: No such file or directory

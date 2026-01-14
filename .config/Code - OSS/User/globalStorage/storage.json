@@ -4,29 +4,30 @@
     "telemetry.devDeviceId": "a07c6e7d-04ab-4067-a433-5c30e41cbedf",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1754501792201"
+                "folderUri": "file:///home/oneuser"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1754501792201": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/oneuser": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/oneuser/.config/Code - OSS/Backups/1754501792201",
+            "folder": "file:///home/oneuser",
+            "backupPath": "/home/oneuser/.config/Code - OSS/Backups/d568fe7e6bd2f353847a6de4267448da",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 0,
-                "width": 960,
-                "height": 1046
+                "mode": 1,
+                "x": 3,
+                "y": 20,
+                "width": 954,
+                "height": 517
             }
         },
         "openedWindows": []
@@ -56,9 +57,21 @@
             "titleBarHeight": 35,
             "activityBarWidth": 48,
             "sideBarWidth": 170,
-            "auxiliaryBarWidth": 0,
+            "auxiliaryBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "b4b9c00a5b01659c9adbb97c14b02797": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
         }
     }
 }

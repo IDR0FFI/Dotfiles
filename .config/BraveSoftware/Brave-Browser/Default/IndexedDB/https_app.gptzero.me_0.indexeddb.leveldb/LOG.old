@@ -1,0 +1,13 @@
+2025/11/05-01:34:01.438 930 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gptzero.me_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/05-01:34:01.438 930 Recovering log #14
+2025/11/05-01:34:01.438 930 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.gptzero.me_0.indexeddb.leveldb/000014.log 
+2025/11/05-01:34:03.248 932 Level-0 table #18: started
+2025/11/05-01:34:03.250 932 Level-0 table #18: 507 bytes OK
+2025/11/05-01:34:03.251 932 Delete type=0 #14
+2025/11/05-01:34:03.252 932 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 413 : 1
+2025/11/05-01:34:03.252 932 Compacting 1@0 + 1@1 files
+2025/11/05-01:34:03.253 932 Generated table #19@0: 7 keys, 443 bytes
+2025/11/05-01:34:03.253 932 Compacted 1@0 + 1@1 files => 443 bytes
+2025/11/05-01:34:03.255 932 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/05-01:34:03.255 932 Delete type=2 #18
+2025/11/05-01:34:03.256 930 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 413 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

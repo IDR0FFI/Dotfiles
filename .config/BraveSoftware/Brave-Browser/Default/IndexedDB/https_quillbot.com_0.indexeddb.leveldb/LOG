@@ -1,0 +1,6 @@
+2025/11/04-15:59:29.386 932 Creating DB /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb since it was missing.
+2025/11/04-15:59:29.389 932 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/04-15:59:29.946 96e Level-0 table #5: started
+2025/11/04-15:59:29.948 96e Level-0 table #5: 2205 bytes OK
+2025/11/04-15:59:29.950 96e Delete type=0 #3
+2025/11/04-15:59:29.950 96e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -149,6 +149,8 @@
   },
 
   "battery": {
+    "bat": "BAT0",
+    "adapter": "ACAD",
     "states": {
       "warning": 30,
       "critical": 15

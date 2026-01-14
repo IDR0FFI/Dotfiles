@@ -18,3 +18,7 @@ post_hook = 'pkill -SIGUSR1 kitty'
 [templates.rofi]
 input_path = '/home/oneuser/.config/matugen/templates/rofi-colors.rasi'
 output_path = '~/.config/rofi/colors.rasi'
+
+# [templates.starship]
+# input_path = '/home/oneuser/.config/matugen/templates/starship.toml'
+# output_path = '~/.config/starship.toml'

@@ -1,0 +1,5 @@
+2025-10-03 22:03:14.056 [info] Started local extension host with pid 31240.
+2025-10-03 22:03:14.440 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-03 22:03:17.536 [info] [perf] Render performance baseline is 41ms
+2025-10-03 22:03:34.303 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T230631/window3' failed: No such file or directory (EUNKNOWN) (path: /home/oneuser)
+2025-10-03 22:03:34.305 [error] [File Watcher (universal)] inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T230631/window3' failed: No such file or directory
