@@ -1,0 +1,5 @@
+2026-01-17 19:10:51.214 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, chat.statusWidget.sku
+2026-01-17 19:10:51.599 [info] Started local extension host with pid 75627.
+2026-01-17 19:10:56.265 [info] [perf] Render performance baseline is 37ms
+2026-01-17 19:11:05.777 [error] [File Watcher ('parcel')] Unexpected error: inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T231720/window1/exthost' failed: No such file or directory (EUNKNOWN) (path: /home/oneuser)
+2026-01-17 19:11:05.778 [error] [File Watcher (universal)] inotify_add_watch on '/home/oneuser/dotfiles/.config/Code - OSS/logs/20250806T231720/window1/exthost' failed: No such file or directory

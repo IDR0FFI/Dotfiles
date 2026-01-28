@@ -1,0 +1,35 @@
+@define-color bg {"dark": Map({"color": Ident("#16130b")}), "default": Map({"color": Ident("#16130b")}), "light": Map({"color": Ident("#fff8f0")})};
+@define-color fg {"dark": Map({"color": Ident("#e9e2d4")}), "default": Map({"color": Ident("#e9e2d4")}), "light": Map({"color": Ident("#1e1b13")})};
+@define-color surface {"dark": Map({"color": Ident("#16130b")}), "default": Map({"color": Ident("#16130b")}), "light": Map({"color": Ident("#fff8f0")})};
+@define-color surface_fg {"dark": Map({"color": Ident("#e9e2d4")}), "default": Map({"color": Ident("#e9e2d4")}), "light": Map({"color": Ident("#1e1b13")})};
+@define-color accent {"dark": Map({"color": Ident("#e0c46d")}), "default": Map({"color": Ident("#e0c46d")}), "light": Map({"color": Ident("#715c0c")})};
+@define-color accent_fg {"dark": Map({"color": Ident("#3c2f00")}), "default": Map({"color": Ident("#3c2f00")}), "light": Map({"color": Ident("#ffffff")})};
+
+/* Base */
+window,
+.background {
+  background-color: @bg; !imortant
+  color: @fg; !important
+}
+
+/* Thunar view */
+.thunar,
+.view,
+treeview {
+  background-color: @surface; !important
+  color: @surface_fg;
+}
+
+/* Selection */
+.view:selected,
+treeview:selected {
+  background-color: @accent;
+  color: @accent_fg;
+}
+
+/* Headerbar */
+headerbar {
+  background-color: @bg;
+  color: @fg;
+}
+

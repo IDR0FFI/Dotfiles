@@ -1,0 +1,7 @@
+[open]
+prepend_rules = [
+	{url = "*/", use = ["open", "edit", "reveal"]}
+]
+
+[mgr]
+ratio = [0,1,2]

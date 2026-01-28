@@ -7,10 +7,12 @@
   border-radius: 10px;
   margin: 0px;
   padding: 0px;
+  background-color: transparent;
 }
 
 window#waybar {
-  background: rgba(40, 44, 52, 0); /* [1][2] Made transparent */
+  background: rgba(0,0,0,0); /* [1][2] Made transparent */
+  background-color: transparent;
   margin: 0px 0px 0px 0px;         /* [1] Decreased top and side margins */
   padding: 0px;
   font-size: 12px;
@@ -34,12 +36,12 @@ window#waybar {
 
 /* Center modules */
 #workspaces {
-  background: @color5; /* [2] Set full opacity */
-  color: @color0;
-  margin: 2px 0px 2px 0px;
-  padding: 2px 5px;                /* [3] Decreased height */
+  background: alpha(@color1, 0.5); /* [2] Set full opacity */
+  color: @color7;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px;                /* [3] Decreased height */
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #workspaces button {
@@ -47,7 +49,7 @@ window#waybar {
 }
 
 #window.title {
-  background: @color5; /* [2] Set full opacity */
+  background: @color0 ; /* [2] Set full opacity */
   color: @color0;
   margin: 2px 0px 2px 0px;
   padding: 2px 10px;                /* [3] Decreased height */
@@ -74,7 +76,7 @@ window#waybar {
 }
 
 #network {
-  background: @color1; /* [2] Set full opacity */
+  background: alpha(@color1, 0.5); /* [2] Set full opacity */
   color: @color7;
   padding: 4px 10px;
   font-weight: 500;
@@ -82,7 +84,7 @@ window#waybar {
 }
 
 #bluetooth {
-  background: @color1; /* [2] Set full opacity */
+  background: alpha(@color1, 0.5); /* [2] Set full opacity */
   color: @color7;
   padding: 4px 10px;
   font-weight: 500;
@@ -91,6 +93,7 @@ window#waybar {
 
 #backlight {
   background: @color1; /* [2] Set full opacity */
+  box-shadow: 10px 10px 10px 10px @color1;
   color: @color7;
   padding: 4px 10px;
   font-weight: 500;
@@ -98,7 +101,8 @@ window#waybar {
 }
 
 #pulseaudio {
-  background: @color1; /* [2] Set full opacity */
+  background: alpha(@color1, 0.5); /* [2] Set full opacity */
+  box-shadow: 0px 0px @color1;
   color: @color7;
   padding: 4px 10px;
   font-weight: 500;
@@ -106,7 +110,8 @@ window#waybar {
 }
 
 #battery {
-  background: @color1; /* [2] Set full opacity */
+  background: alpha(@color1, 0.5); /* [2] Set full opacity */
+  box-shadow: 10px 10px 10px 10px @color1;
   color: @color7;
   padding: 4px 10px;
   font-weight: 500;
@@ -115,17 +120,17 @@ window#waybar {
 
 /* Battery states */
 #battery.warning {
-  background: @error; /* [2] Set full opacity */
+  background: alpha(@error, 0.5); /* [2] Set full opacity */
   color: @error_container;
 }
 
 #battery.critical {
-  background: @on_error; /* [2] Set full opacity */
+  background: alpha(@on_error, 0.5); /* [2] Set full opacity */
   color: @on_error_container;
 }
 
 #battery.charging {
-  background: @on_tertiary; /* [2] Set full opacity */
+  background: alpha(@on_tertiary, 0.5); /* [2] Set full opacity */
   color: @on_tertiary_container;
 }
 

@@ -1,7 +1,7 @@
 {
   "layer": "top",
   "position": "top",
-  "height": 28,
+  "height": 32,
   "spacing": 5,
   "margin-top": 5,
   "margin-left": 2,
@@ -9,22 +9,14 @@
   "margin-bottom": 0,
   
   "modules-left": [
-    "clock#date",
-    "clock#time"
-  ],
-  
-  "modules-center": [
     "hyprland/workspaces"
   ],
-  
+ 
   "modules-right": [
     "network",
     "bluetooth",
-    "backlight",
     "pulseaudio",
-    "battery",
-    "custom/power-profile",
-    "custom/power-menu"
+    "battery"
   ],
 
   "clock#date": {
@@ -62,8 +54,8 @@
  "hyprland/workspaces": {
     "format": "{icon}",
     "format-icons": {
-      "active": "",
-      "default": ""
+      "active": "\ue78c",
+      "default": "\uf4aa"
     },
     "on-click": "hyprctl dispatch workspace {name}",
     "tooltip": false
@@ -150,7 +142,7 @@
 
   "battery": {
     "bat": "BAT0",
-    "adapter": "ACAD",
+    "adapter": "ACIP",
     "states": {
       "warning": 30,
       "critical": 15

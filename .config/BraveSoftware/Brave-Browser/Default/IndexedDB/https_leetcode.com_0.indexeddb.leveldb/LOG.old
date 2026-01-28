@@ -1,3 +1,21 @@
-2026/01/13-11:17:15.149 917 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/13-11:17:15.149 917 Recovering log #209
-2026/01/13-11:17:15.150 917 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/000209.log 
+2026/01/26-18:38:55.950 21d90 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/26-18:38:55.950 21d90 Recovering log #213
+2026/01/26-18:38:55.950 21d90 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_leetcode.com_0.indexeddb.leveldb/000213.log 
+2026/01/26-19:19:51.519 21d90 Level-0 table #218: started
+2026/01/26-19:19:51.534 21d90 Level-0 table #218: 758649 bytes OK
+2026/01/26-19:19:51.536 21d90 Delete type=0 #213
+2026/01/26-19:24:36.921 21d90 Compacting 1@1 + 1@2 files
+2026/01/26-19:24:36.933 21d90 Generated table #219@1: 311 keys, 41492 bytes
+2026/01/26-19:24:36.933 21d90 Compacted 1@1 + 1@2 files => 41492 bytes
+2026/01/26-19:24:36.934 21d90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-19:24:36.934 21d90 Delete type=2 #215
+2026/01/26-19:24:36.934 21d90 Delete type=2 #218
+2026/01/26-21:27:13.526 21d90 Level-0 table #221: started
+2026/01/26-21:27:13.539 21d90 Level-0 table #221: 902925 bytes OK
+2026/01/26-21:27:13.541 21d90 Delete type=0 #217
+2026/01/26-21:29:28.913 21d90 Compacting 1@1 + 1@2 files
+2026/01/26-21:29:28.923 21d90 Generated table #222@1: 312 keys, 41850 bytes
+2026/01/26-21:29:28.923 21d90 Compacted 1@1 + 1@2 files => 41850 bytes
+2026/01/26-21:29:28.924 21d90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/26-21:29:28.924 21d90 Delete type=2 #221
+2026/01/26-21:29:28.924 21d90 Delete type=2 #219

@@ -1,6 +1,12 @@
-2025/11/04-15:52:17.855 930 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/04-15:52:17.856 930 Recovering log #63
-2025/11/04-15:52:17.856 930 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000063.log 
-2025/11/04-15:53:19.453 932 Level-0 table #68: started
-2025/11/04-15:53:19.481 932 Level-0 table #68: 3060911 bytes OK
-2025/11/04-15:53:19.486 932 Delete type=0 #63
+2026/01/28-09:13:24.453 3b06a Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/28-09:13:24.454 3b06a Recovering log #85
+2026/01/28-09:13:24.460 3b06a Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000085.log 
+2026/01/28-09:13:29.912 3b054 Compacting 1@1 + 1@2 files
+2026/01/28-09:13:29.942 3b054 Generated table #88@1: 232 keys, 1120030 bytes
+2026/01/28-09:13:29.942 3b054 Compacted 1@1 + 1@2 files => 1120030 bytes
+2026/01/28-09:13:29.944 3b054 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/28-09:13:29.945 3b054 Delete type=2 #86
+2026/01/28-09:13:29.945 3b054 Delete type=2 #83
+2026/01/28-09:13:57.772 3b056 Level-0 table #90: started
+2026/01/28-09:13:57.813 3b056 Level-0 table #90: 3260284 bytes OK
+2026/01/28-09:13:57.816 3b056 Delete type=0 #85

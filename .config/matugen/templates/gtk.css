@@ -1,0 +1,35 @@
+@define-color bg {{ colors.background }};
+@define-color fg {{ colors.on_background }};
+@define-color surface {{ colors.surface }};
+@define-color surface_fg {{ colors.on_surface }};
+@define-color accent {{ colors.primary }};
+@define-color accent_fg {{ colors.on_primary }};
+
+/* Base */
+window,
+.background {
+  background-color: @bg; !imortant
+  color: @fg; !important
+}
+
+/* Thunar view */
+.thunar,
+.view,
+treeview {
+  background-color: @surface; !important
+  color: @surface_fg;
+}
+
+/* Selection */
+.view:selected,
+treeview:selected {
+  background-color: @accent;
+  color: @accent_fg;
+}
+
+/* Headerbar */
+headerbar {
+  background-color: @bg;
+  color: @fg;
+}
+

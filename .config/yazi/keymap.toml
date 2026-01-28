@@ -1,0 +1,4 @@
+[mgr]
+prepend_keymap = [
+	{on = "<Enter>", run = ["open", "quit --no-cwd-file"], desc = "Opens the folder"}	
+]

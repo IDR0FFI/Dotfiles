@@ -1,0 +1,17 @@
+2026-01-25 21:59:40 INFO  (LoggingInitialization) Using log config file: jar:file:/opt/ghidra/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2026-01-25 21:59:40 INFO  (LoggingInitialization) Using log file: /home/oneuser/.config/ghidra/ghidra_11.4.2_DEV/application.log  
+2026-01-25 21:59:40 INFO  (Preferences) Loading user preferences: /home/oneuser/.config/ghidra/ghidra_11.4.2_DEV/preferences  
+2026-01-25 22:00:08 INFO  (ClassSearcher) Searching for classes...  
+2026-01-25 22:00:09 INFO  (ClassSearcher) Class search complete (867 ms)  
+2026-01-25 22:00:09 INFO  (SSLContextInitializer) Initializing SSL Context  
+2026-01-25 22:00:09 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2026-01-25 22:00:09 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2026-01-25 22:00:09 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2026-01-25 22:00:09 INFO  (GhidraRun) User oneuser started Ghidra.  
+2026-01-25 22:00:09 INFO  (GhidraRun) User settings directory: /home/oneuser/.config/ghidra/ghidra_11.4.2_DEV  
+2026-01-25 22:00:09 INFO  (GhidraRun) User temp directory: /tmp/oneuser-ghidra  
+2026-01-25 22:00:09 INFO  (GhidraRun) User cache directory: /var/tmp/oneuser-ghidra  
+2026-01-25 22:00:09 DEBUG (DefaultProjectManager) No tools found; Installing default tools  
+2026-01-25 22:00:09 DEBUG (DefaultProjectManager) 	no recent project directories found  
+2026-01-25 22:00:10 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2026-01-25 22:00:10 INFO  (GhidraRun) Ghidra startup complete (30864 ms)  

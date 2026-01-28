@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/oneuser/dotfiles'
+let g:netrw_dirhist_3='/home/oneuser/dotfiles/.config/qt5ct/colors'
+let g:netrw_dirhist_2='/home/oneuser/dotfiles/.config/gtk-3.0'
 let g:netrw_dirhist_1='/home/oneuser/.emacs.d/auto-save-list'
 let g:netrw_dirhist_0='/home/oneuser/Program/Self/WebSocket_Test'
 let g:netrw_dirhist_9='/home/oneuser/Scripts'
@@ -7,6 +10,3 @@ let g:netrw_dirhist_8='/home/oneuser/Program/Self/AppDev/orgzly-android-revived/
 let g:netrw_dirhist_7='/home/oneuser/Scripts'
 let g:netrw_dirhist_6='/home/oneuser/Program/Third-Party/pywal/pywal/scripts'
 let g:netrw_dirhist_5='/home/oneuser/Program/Third-Party/pywal/pywal/backends'
-let g:netrw_dirhist_4='/home/oneuser/.cache/wal'
-let g:netrw_dirhist_3='/home/oneuser/.cache'
-let g:netrw_dirhist_2='/home/oneuser/.cache/wal'

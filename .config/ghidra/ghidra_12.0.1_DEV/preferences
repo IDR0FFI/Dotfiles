@@ -1,0 +1,22 @@
+#User Preferences
+#Sun Jan 25 22:43:12 IST 2026
+G_FILE_CHOOSER.HEIGHT.Select\ File\ to\ Import=600
+G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
+G_FILE_CHOOSER.VIEW_STYLE.Select\ File\ to\ Import=SimpleView
+G_FILE_CHOOSER.VIEW_STYLE.Select\ a\ Ghidra\ Project\ Directory=SimpleView
+G_FILE_CHOOSER.WIDTH.Select\ File\ to\ Import=800
+G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
+GhidraShowWhatsNew=false
+LAST_USED_OPTIONS_CONFIG=Standard Defaults
+LastImportFile=/home/oneuser/Program/Self/OOPS/Java/Lab01.jar
+LastOpenedProject=/home/oneuser/Program/RE_/First
+ProjectDirectory=/home/oneuser/Program/RE_/
+RECENT_0=/home/oneuser/Program/Self/OOPS/Java
+RECENT_1=/home/oneuser/Program
+RecentProjects=/home/oneuser/Program/RE_/First
+SHOW.HELP.NAVIGATION.AID=true
+SHOW_TIPS=true
+TIP_INDEX=3
+Theme=Class\:generic.theme.builtin.FlatLightTheme
+USER_AGREEMENT=ACCEPT
+ViewedProjects=

@@ -1,15 +1,6 @@
-2025/11/04-15:50:15.805 970 Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/11/04-15:50:15.805 970 Recovering log #58
-2025/11/04-15:50:15.806 970 Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000058.log 
-2025/11/04-15:51:39.345 932 Level-0 table #64: started
-2025/11/04-15:51:39.346 932 Level-0 table #64: 31071 bytes OK
-2025/11/04-15:51:39.348 932 Delete type=0 #58
-2025/11/04-15:51:39.348 932 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2025/11/04-15:51:39.349 932 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 21022 : 1
-2025/11/04-15:51:39.349 932 Compacting 1@1 + 1@2 files
-2025/11/04-15:51:39.354 932 Generated table #65@1: 107 keys, 281222 bytes
-2025/11/04-15:51:39.354 932 Compacted 1@1 + 1@2 files => 281222 bytes
-2025/11/04-15:51:39.355 932 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/11/04-15:51:39.355 932 Delete type=2 #64
-2025/11/04-15:51:39.355 932 Delete type=2 #61
-2025/11/04-15:51:39.356 932 Manual compaction at level-1 from '\x00\x09\x01\x02\x01(\x00S\x00t\x00o\x00r\x00e\x00d\x00N\x00e\x00t\x00w\x00o\x00r\x00k\x00F\x00e\x00t\x00c\x00h\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00S\x00T\x00A\x00T\x00I\x00C\x00_\x00A\x00S\x00S\x00E\x00T' @ 21022 : 1 .. (end); will stop at (end)
+2026/01/27-09:20:58.915 293d Reusing MANIFEST /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/27-09:20:58.915 293d Recovering log #80
+2026/01/27-09:20:58.923 293d Reusing old log /home/oneuser/.config/BraveSoftware/Brave-Browser/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000080.log 
+2026/01/27-09:21:25.648 2929 Level-0 table #86: started
+2026/01/27-09:21:25.683 2929 Level-0 table #86: 3098405 bytes OK
+2026/01/27-09:21:25.686 2929 Delete type=0 #80

@@ -1,6 +1,8 @@
 [Added Associations]
 image/jpeg=viewnior.desktop;
 image/png=viewnior.desktop;
+application/pdf=firefox.desktop;
 
 [Default Applications]
 image/png=viewnior.desktop
+application/pdf=firefox.desktop

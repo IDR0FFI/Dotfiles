@@ -1,0 +1,7 @@
+[General]
+accent={{ colors.primary }}
+background={{ colors.background }}
+foreground={{ colors.on_background }}
+highlight={{ colors.primary }}
+highlight_text={{ colors.on_primary }}
+
